@@ -42,6 +42,7 @@ ROBOTSTXT_OBEY = True
 DEFAULT_REQUEST_HEADERS = {
   'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
   'Accept-Language': 'en',
+  'Cookie': 'navCtgScroll=0; navCtgScroll=0; _lxsdk_cuid=16295054bc8c8-017005ff16c50c-336b7b05-1aeaa0-16295054bc8c8; _lxsdk=16295054bc8c8-017005ff16c50c-336b7b05-1aeaa0-16295054bc8c8; _hc.v=bfed0062-2e56-afe0-2f4a-2171d382e106.1522918575; s_ViewType=10; ua=LouisHors; ctu=69af430824ddf39cdcb86c44155ffadbdb7519bddefc8adff78d008ec9f36757; aburl=1; dper=4f8a40319b43d2246108baf4b2f043b5d97ad6692e2ca0ddf86daafd95c985414ee714176869adc701e150cb1ecfb9c7bbf0e1864a83ba1cea780a7adcf9f83aa3206aa4f94572cbcef376b37440ce703b06d28d88c98ac5cf7780ad9f305962; ll=7fd06e815b796be3df069dec7836c3df; uamo=18253183873; cy=4; cye=guangzhou; _lxsdk_s=164ca58d1c1-db1-25e-83d%7C%7C97'
 }
 USER_AGENT = 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36'
 
